@@ -1,6 +1,6 @@
 ## Benvenuti!
 
-+ [Privacy.md](Privacy Policy)
++ [Privacy Policy](Privacy.md)
 
 
 ### Markdown
