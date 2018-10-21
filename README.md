@@ -1,7 +1,7 @@
 ## Benvenuti!
 
 + [Privacy policy](Privacy-en.md)
-+ [PInformativa sulla privacy](Privacy-it.md)
++ [Informativa sulla privacy](Privacy-it.md)
 
 
 ### Markdown
