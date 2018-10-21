@@ -1,6 +1,6 @@
 Data di entrata in vigore: October 21, 2018
 
-Carlo Panzi ("noi" o "nostro") gestisce il Brevetti F l'applicazione per dispositivi mobili (in appresso il "Servizio").
+Carlo Panzi ("noi" o "nostro") gestisce l'applicazione per dispositivi mobili "Brevetti FIPSAS" ("Servizio", "Brevetti").
 
 Questa pagina vi informa delle nostre politiche riguardanti la raccolta, l'uso e la divulgazione dei dati personali quando usate il nostro Servizio e le scelte che avete associato a quei dati.
 
@@ -10,7 +10,7 @@ Utilizziamo i vostri dati per fornire e migliorare il Servizio. Utilizzando il S
 
 *   **Servizio**
 
-    Il Servizio è l'applicazione per dispositivi mobili Brevetti F gestita dalla Brevetti F
+    Il Servizio è l'applicazione per dispositivi mobili Brevetti.
 
 *   **Dati personali**
 
@@ -57,7 +57,7 @@ Esempi di cookie che utilizziamo:
 
 ## Uso dei dati
 
-Brevetti FIPSAS utilizza i dati raccolti per vari scopi:
+Brevetti utilizza i dati raccolti per vari scopi:
 
 *   Per fornire e mantenere il nostro Servizio
 *   Per comunicare agli utenti variazioni apportate al servizio che offriamo
@@ -75,16 +75,16 @@ Se ci si trova al di fuori di Italy e si sceglie di fornire informazioni a noi, 
 
 Il vostro consenso alla presente Informativa sulla privacy seguito dall'invio di tali informazioni rappresenta il vostro consenso al trasferimento.
 
-Brevetti FIPSAS adotterà tutte le misure ragionevolmente necessarie per garantire che i vostri dati siano trattati in modo sicuro e in conformità con la presente Informativa sulla privacy e nessun trasferimento dei vostri Dati Personali sarà effettuato a un'organizzazione o a un paese a meno che non vi siano controlli adeguati dei vostri dati e altre informazioni personali.
+Brevetti adotterà tutte le misure ragionevolmente necessarie per garantire che i vostri dati siano trattati in modo sicuro e in conformità con la presente Informativa sulla privacy e nessun trasferimento dei vostri Dati Personali sarà effettuato a un'organizzazione o a un paese a meno che non vi siano controlli adeguati dei vostri dati e altre informazioni personali.
 
 ## Divulgazione di dati
 
 ### Prescrizioni di legge
 
-Brevetti FIPSAS può divulgare i vostri Dati personali in buona fede, ritenendo che tale azione sia necessaria per:
+Brevetti può divulgare i vostri Dati personali in buona fede, ritenendo che tale azione sia necessaria per:
 
 *   Rispettare un obbligo legale
-*   Proteggere e difendere i diritti o la proprietà di Brevetti FIPSAS
+*   Proteggere e difendere i diritti o la proprietà di Brevetti
 *   Prevenire o investigare possibili illeciti in relazione al Servizio
 *   Proteggere la sicurezza personale degli utenti del Servizio o del pubblico
 *   Proteggere contro la responsabilità legale
