@@ -2,7 +2,7 @@ Data di entrata in vigore: October 21, 2018
 
 Carlo Panzi ("noi" o "nostro") gestisce il Brevetti F l'applicazione per dispositivi mobili (in appresso il "Servizio").
 
-Questa pagina vi informa delle nostre politiche riguardanti la raccolta, l'uso e la divulgazione dei dati personali quando usate il nostro Servizio e le scelte che avete associato a quei dati. [Informativa sulla Privacy via Free Privacy Policy](https://www.freeprivacypolicy.com/free-privacy-policy-generator.php).
+Questa pagina vi informa delle nostre politiche riguardanti la raccolta, l'uso e la divulgazione dei dati personali quando usate il nostro Servizio e le scelte che avete associato a quei dati.
 
 Utilizziamo i vostri dati per fornire e migliorare il Servizio. Utilizzando il Servizio, accettate la raccolta e l'utilizzo delle informazioni in conformità con questa informativa. Se non diversamente definito nella presente Informativa sulla privacy, i termini utilizzati nella presente Informativa hanno la stessa valenza dei nostri Termini e condizioni.
 
