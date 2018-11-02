@@ -1,3 +1,8 @@
+---
+---
+
+# Informativa sulla privacy
+
 Data di entrata in vigore: October 21, 2018
 
 Carlo Panzi ("noi" o "nostro") gestisce l'applicazione per dispositivi mobili "Brevetti FIPSAS" ("Servizio", "Brevetti").
@@ -8,21 +13,21 @@ Utilizziamo i vostri dati per fornire e migliorare il Servizio. Utilizzando il S
 
 ## Definizioni
 
-*   **Servizio**
+- **Servizio**
 
-    Il Servizio è l'applicazione per dispositivi mobili Brevetti.
+  Il Servizio è l'applicazione per dispositivi mobili Brevetti.
 
-*   **Dati personali**
+- **Dati personali**
 
-    I Dati personali sono i dati di un individuo vivente che può essere identificato da quei dati (o da quelli e altre informazioni in nostro possesso o che potrebbero venire in nostro possesso).
+  I Dati personali sono i dati di un individuo vivente che può essere identificato da quei dati (o da quelli e altre informazioni in nostro possesso o che potrebbero venire in nostro possesso).
 
-*   **Dati di utilizzo**
+- **Dati di utilizzo**
 
-    I dati di utilizzo sono i dati raccolti automaticamente generati dall'utilizzo del Servizio o dall'infrastruttura del Servizio stesso (ad esempio, la durata della visita di una pagina).
+  I dati di utilizzo sono i dati raccolti automaticamente generati dall'utilizzo del Servizio o dall'infrastruttura del Servizio stesso (ad esempio, la durata della visita di una pagina).
 
-*   **Cookies**
+- **Cookies**
 
-    I cookie sono piccoli file memorizzati sul vostro dispositivo (computer o dispositivo mobile).
+  I cookie sono piccoli file memorizzati sul vostro dispositivo (computer o dispositivo mobile).
 
 ## Raccolta e uso delle informazioni
 
@@ -34,8 +39,8 @@ Raccogliamo diversi tipi di informazioni per vari scopi, per fornire e migliorar
 
 Durante l'utilizzo del nostro Servizio, potremmo chiedervi di fornirci alcune informazioni di identificazione personale che possono essere utilizzate per contattarvi o identificarvi ("Dati personali"). Le informazioni di identificazione personale possono includere, ma non sono limitate a:
 
-*   Indirizzo email
-*   Cookie e dati di utilizzo
+- Indirizzo email
+- Cookie e dati di utilizzo
 
 #### Dati di utilizzo
 
@@ -51,21 +56,21 @@ Potete chiedere al vostro browser di rifiutare tutti i cookie o di indicare quan
 
 Esempi di cookie che utilizziamo:
 
-*   **Cookie di sessione.** Utilizziamo i cookie di sessione per gestire il nostro servizio.
-*   **Cookie di preferenza.** Utilizziamo i cookie di preferenza per ricordare le vostre preferenze e varie impostazioni.
-*   **Cookie di sicurezza.** Utilizziamo i cookie di sicurezza per motivi di sicurezza.
+- **Cookie di sessione.** Utilizziamo i cookie di sessione per gestire il nostro servizio.
+- **Cookie di preferenza.** Utilizziamo i cookie di preferenza per ricordare le vostre preferenze e varie impostazioni.
+- **Cookie di sicurezza.** Utilizziamo i cookie di sicurezza per motivi di sicurezza.
 
 ## Uso dei dati
 
 Brevetti utilizza i dati raccolti per vari scopi:
 
-*   Per fornire e mantenere il nostro Servizio
-*   Per comunicare agli utenti variazioni apportate al servizio che offriamo
-*   Per permettere agli utenti di fruire, a propria discrezione, di funzioni interattive del nostro servizio
-*   Per fornire un servizio ai clienti
-*   Per raccogliere analisi o informazioni preziose in modo da poter migliorare il nostro Servizio
-*   Per monitorare l'utilizzo del nostro Servizio
-*   Per rilevare, prevenire e affrontare problemi tecnici
+- Per fornire e mantenere il nostro Servizio
+- Per comunicare agli utenti variazioni apportate al servizio che offriamo
+- Per permettere agli utenti di fruire, a propria discrezione, di funzioni interattive del nostro servizio
+- Per fornire un servizio ai clienti
+- Per raccogliere analisi o informazioni preziose in modo da poter migliorare il nostro Servizio
+- Per monitorare l'utilizzo del nostro Servizio
+- Per rilevare, prevenire e affrontare problemi tecnici
 
 ## Trasferimento dei dati
 
@@ -83,11 +88,11 @@ Brevetti adotterà tutte le misure ragionevolmente necessarie per garantire che 
 
 Brevetti può divulgare i vostri Dati personali in buona fede, ritenendo che tale azione sia necessaria per:
 
-*   Rispettare un obbligo legale
-*   Proteggere e difendere i diritti o la proprietà di Brevetti
-*   Prevenire o investigare possibili illeciti in relazione al Servizio
-*   Proteggere la sicurezza personale degli utenti del Servizio o del pubblico
-*   Proteggere contro la responsabilità legale
+- Rispettare un obbligo legale
+- Proteggere e difendere i diritti o la proprietà di Brevetti
+- Prevenire o investigare possibili illeciti in relazione al Servizio
+- Proteggere la sicurezza personale degli utenti del Servizio o del pubblico
+- Proteggere contro la responsabilità legale
 
 ## Sicurezza dei dati
 
@@ -103,13 +108,13 @@ Le terze parti hanno accesso ai vostri Dati personali solo per eseguire queste a
 
 Potremmo utilizzare i Fornitori di servizi di terze parti per monitorare e analizzare l'utilizzo del nostro servizio.
 
-*   **Google Analytics**
+- **Google Analytics**
 
-    Google Analytics è un servizio di analisi web offerto da Google che tiene traccia e segnala il traffico del sito web. Google utilizza i dati raccolti per tracciare e monitorare l'utilizzo del nostro Servizio. Questi dati sono condivisi con altri servizi di Google. Google può utilizzare i dati raccolti per contestualizzare e personalizzare le inserzioni della propria rete pubblicitaria.
+  Google Analytics è un servizio di analisi web offerto da Google che tiene traccia e segnala il traffico del sito web. Google utilizza i dati raccolti per tracciare e monitorare l'utilizzo del nostro Servizio. Questi dati sono condivisi con altri servizi di Google. Google può utilizzare i dati raccolti per contestualizzare e personalizzare le inserzioni della propria rete pubblicitaria.
 
-    Potete scegliere di rinunciare ad alcune funzioni di Google Analytics tramite le impostazioni del vostro dispositivo mobile, come ad esempio le impostazioni del dispositivo di pubblicità o seguendo le istruzioni fornite da Google nella loro Informativa sulla Privacy: [https://policies.google.com/privacy?hl=en](https://policies.google.com/privacy?hl=en)
+  Potete scegliere di rinunciare ad alcune funzioni di Google Analytics tramite le impostazioni del vostro dispositivo mobile, come ad esempio le impostazioni del dispositivo di pubblicità o seguendo le istruzioni fornite da Google nella loro Informativa sulla Privacy: [https://policies.google.com/privacy?hl=en](https://policies.google.com/privacy?hl=en)
 
-    Per ulteriori informazioni sulle prassi relative alla privacy di Google, vi preghiamo di visitare la pagina web con i Termini della privacy di Google: [https://policies.google.com/privacy?hl=en](https://policies.google.com/privacy?hl=en)
+  Per ulteriori informazioni sulle prassi relative alla privacy di Google, vi preghiamo di visitare la pagina web con i Termini della privacy di Google: [https://policies.google.com/privacy?hl=en](https://policies.google.com/privacy?hl=en)
 
 ## Link ad altri siti
 
@@ -135,4 +140,4 @@ Si consiglia di rivedere periodicamente la presente Informativa sulla privacy pe
 
 In caso di domande sulla presente Informativa sulla privacy, si prega di contattarci:
 
-*   Tramite e-mail: carlo.panzi@gmail.com
+- Tramite e-mail: carlo.panzi@gmail.com

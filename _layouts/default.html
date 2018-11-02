@@ -25,13 +25,30 @@
       <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
     </header>
 
+    <!--
+  As soon as we have more pages
+      <nav class="main-column main-nav">
+        {% assign sorted_pages = site.pages | sort:"order" %}
+        {% for page in sorted_pages %}
+        {% if page.nav %}
+        <a href="{{ page.url }}">{{ page.nav_title | default: page.title }}</a>
+        {% endif %}
+        {% endfor %}
+      </nav>
+    -->
+
     <main id="content" class="main-content" role="main">
       {{ content }}
 
       <footer class="site-footer">
         {% if site.github.is_project_page %}
+        <div>
           <span class="site-footer-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</span>
+        </div>
         {% endif %}
+        <div>
+            <a href="{% link Privacy-it.md %}">Informativa sulla privacy</a>
+        </div>
       </footer>
     </main>
   </body>

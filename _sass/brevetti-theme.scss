@@ -1,0 +1,42 @@
+@import "variables";
+
+@mixin large {
+  @media screen and (min-width: #{$large-breakpoint}) {
+    @content;
+  }
+}
+
+@mixin medium {
+  @media screen and (min-width: #{$medium-breakpoint}) and (max-width: #{$large-breakpoint}) {
+    @content;
+  }
+}
+
+@mixin small {
+  @media screen and (max-width: #{$medium-breakpoint}) {
+    @content;
+  }
+}
+
+.main-column {
+  @include large {
+    max-width: 64rem;
+    padding: 0 6rem;
+    margin: 0 auto;
+    font-size: 1.1rem;
+  }
+
+  @include medium {
+    padding: 0 4rem;
+    font-size: 1.1rem;
+  }
+
+  padding: 0 1rem;
+  font-size: 1rem;
+}
+
+.main-nav {
+  display: flex;
+  justify-content: space-between;
+  text-align: center;
+}
