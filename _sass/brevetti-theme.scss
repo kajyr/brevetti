@@ -1,42 +1,28 @@
 @import "variables";
+@import "mediaqueries";
 
-@mixin large {
-  @media screen and (min-width: #{$large-breakpoint}) {
-    @content;
-  }
+html,
+body {
+  margin: 0;
+  font-size: 16px;
+  font-family: "Montserrat", sans-serif;
 }
 
-@mixin medium {
-  @media screen and (min-width: #{$medium-breakpoint}) and (max-width: #{$large-breakpoint}) {
-    @content;
-  }
-}
-
-@mixin small {
-  @media screen and (max-width: #{$medium-breakpoint}) {
-    @content;
-  }
-}
-
-.main-column {
-  @include large {
-    max-width: 64rem;
-    padding: 0 6rem;
-    margin: 0 auto;
-    font-size: 1.1rem;
-  }
-
-  @include medium {
-    padding: 0 4rem;
-    font-size: 1.1rem;
-  }
-
+.column {
+  max-width: 64rem;
+  margin: 0 auto;
   padding: 0 1rem;
-  font-size: 1rem;
+
+  @include from-large {
+    padding: 0 6rem;
+  }
+
+  @include from-medium {
+    padding: 0 4rem;
+  }
 }
 
-.main-nav {
-  display: flex;
-  justify-content: space-between;
-  text-align: center;
-}
+@import "components/header";
+@import "components/footer";
+@import "components/main";
+@import "pages/home";

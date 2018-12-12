@@ -1,0 +1,33 @@
+.previews {
+  @include from-large {
+    display: flex;
+  }
+}
+
+.preview {
+  img {
+    width: 100%;
+  }
+
+  &-home {
+    max-width: 330px;
+    margin: 0 auto;
+    order: 1;
+
+    @include from-medium {
+    }
+  }
+
+  &-brevetto {
+    max-width: 760px;
+    margin: 0 auto;
+    order: 2;
+
+    @include from-medium {
+    }
+  }
+}
+
+.copy {
+  text-align: center;
+}

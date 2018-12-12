@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
+<html lang="{{ site.lang | default: "it-IT" }}">
   <head>
 
     {% if site.google_analytics %}
@@ -17,12 +17,15 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#157878">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
   </head>
   <body>
-    <header class="page-header" role="banner">
-      <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
-      <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
+    <header class="site-header" role="banner">
+      <div class="column site-header-inner">
+        <h1 class="project-name"><a href="{{ site.baseurl }}/">{{ site.title | default: site.github.repository_name }}</a></h1>
+        <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
+      </div>
     </header>
 
     <!--
@@ -37,19 +40,17 @@
       </nav>
     -->
 
-    <main id="content" class="main-content" role="main">
-      {{ content }}
+    <main role="main" class="site-main">
+      <div class="column">
+        {{ content }}
+      </div>
 
+    </main>
       <footer class="site-footer">
-        {% if site.github.is_project_page %}
-        <div>
-          <span class="site-footer-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</span>
-        </div>
-        {% endif %}
-        <div>
+        <div class="column">
+          Carlo Panzi, 2018. - 
             <a href="{{ site.baseurl }}{% link Privacy-it.md %}">Informativa sulla privacy</a>
         </div>
       </footer>
-    </main>
   </body>
 </html>
